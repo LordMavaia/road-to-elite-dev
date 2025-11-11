@@ -1,0 +1,15 @@
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\HelloEliteDev\bin\Debug\net9.0\HelloEliteDev.exe
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\HelloEliteDev\bin\Debug\net9.0\HelloEliteDev.deps.json
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\HelloEliteDev\bin\Debug\net9.0\HelloEliteDev.runtimeconfig.json
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\HelloEliteDev\bin\Debug\net9.0\HelloEliteDev.dll
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\HelloEliteDev\bin\Debug\net9.0\HelloEliteDev.pdb
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\HelloEliteDev\obj\Debug\net9.0\HelloEliteDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\HelloEliteDev\obj\Debug\net9.0\HelloEliteDev.AssemblyInfoInputs.cache
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\HelloEliteDev\obj\Debug\net9.0\HelloEliteDev.AssemblyInfo.cs
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\HelloEliteDev\obj\Debug\net9.0\HelloEliteDev.csproj.CoreCompileInputs.cache
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\HelloEliteDev\obj\Debug\net9.0\HelloEliteDev.sourcelink.json
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\HelloEliteDev\obj\Debug\net9.0\HelloEliteDev.dll
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\HelloEliteDev\obj\Debug\net9.0\refint\HelloEliteDev.dll
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\HelloEliteDev\obj\Debug\net9.0\HelloEliteDev.pdb
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\HelloEliteDev\obj\Debug\net9.0\HelloEliteDev.genruntimeconfig.cache
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\HelloEliteDev\obj\Debug\net9.0\ref\HelloEliteDev.dll
