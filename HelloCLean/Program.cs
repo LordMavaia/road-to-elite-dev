@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Este es mi primer dia");
+Console.WriteLine("Este es mi primer día");
 
-string nombre ="Jorge Omar";
+string nombre = "Jorge Omar";
 int edad = 35;
 bool activo = true;
 
