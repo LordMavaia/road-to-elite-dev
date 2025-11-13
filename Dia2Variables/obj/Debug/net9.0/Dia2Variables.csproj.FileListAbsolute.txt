@@ -1,0 +1,15 @@
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\Dia2Variables\bin\Debug\net9.0\Dia2Variables.exe
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\Dia2Variables\bin\Debug\net9.0\Dia2Variables.deps.json
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\Dia2Variables\bin\Debug\net9.0\Dia2Variables.runtimeconfig.json
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\Dia2Variables\bin\Debug\net9.0\Dia2Variables.dll
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\Dia2Variables\bin\Debug\net9.0\Dia2Variables.pdb
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\Dia2Variables\obj\Debug\net9.0\Dia2Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\Dia2Variables\obj\Debug\net9.0\Dia2Variables.AssemblyInfoInputs.cache
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\Dia2Variables\obj\Debug\net9.0\Dia2Variables.AssemblyInfo.cs
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\Dia2Variables\obj\Debug\net9.0\Dia2Variables.csproj.CoreCompileInputs.cache
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\Dia2Variables\obj\Debug\net9.0\Dia2Variables.sourcelink.json
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\Dia2Variables\obj\Debug\net9.0\Dia2Variables.dll
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\Dia2Variables\obj\Debug\net9.0\refint\Dia2Variables.dll
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\Dia2Variables\obj\Debug\net9.0\Dia2Variables.pdb
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\Dia2Variables\obj\Debug\net9.0\Dia2Variables.genruntimeconfig.cache
+C:\Users\clima\OneDrive\Escritorio\PRIME\road-to-elite-dev\Dia2Variables\obj\Debug\net9.0\ref\Dia2Variables.dll
